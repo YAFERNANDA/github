@@ -9,7 +9,7 @@ Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 El código de los proyectos alojados en GitHub se almacena típicamente de forma pública,
 aunque utilizando una cuenta de pago, también permite hospedar repositorios privados.
 - 
-![github1](https://user-images.githubusercontent.com/32285220/33273494-6ec155bc-d35b-11e7-8c05-68e475abf771.png)
+![git hub0](https://user-images.githubusercontent.com/32285220/33273478-68d8ae02-d35b-11e7-9455-cd3bc3bc1154.png)
 
 
 OBJECTIVO :
